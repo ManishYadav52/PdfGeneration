@@ -22,7 +22,7 @@ To provide a flexible, scalable, and easy-to-maintain report generation system f
 
 ## 2. Folder Structure
 
-### Backend
+## Backend
 ├─ data.js # Sample assessment data
 ├─ routes/ # API routes
 │ └─ authRoutes.js
@@ -35,7 +35,7 @@ To provide a flexible, scalable, and easy-to-maintain report generation system f
 ├─ app.js # Main express app
 └─ server.js # Server startup
 
-### Frontend
+## Frontend
 
 frontend/
 ├─ pages/
@@ -51,7 +51,7 @@ frontend/
 ## 3. Setup Instructions
 
 ### Backend and Frontend
-```bash
+  -- bash---
 cd backend
 npm install
 npm start
